@@ -25,3 +25,4 @@ dist-ssr
 
 # Source videos not used by the site
 public/media/*.MOV
+original-media/
